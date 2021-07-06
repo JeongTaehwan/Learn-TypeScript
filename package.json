@@ -1,0 +1,20 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "> 태환이의 Typescript 정복기🤠",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongTaehwan/Learn-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeongTaehwan/Learn-Typescript/issues"
+  },
+  "homepage": "https://github.com/JeongTaehwan/Learn-Typescript#readme"
+}
